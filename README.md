@@ -3,7 +3,7 @@
 Welcome to my central repository documenting an intensive, 5-month journey from foundational mathematics and scratch neural networks to modern Large Language Models (LLMs) and Edge AI hardware deployment.
 
 > **Mentee:** AICTE IDEA Lab
-> **Status:** Active (Week 2 / Month 1)
+> **Status:** Active (Day 10 / Month 1)
 > **LinkedIn:** [linkedin.com/in/kondratisuresh](https://www.linkedin.com/in/kondratisuresh/)
 
 ---
@@ -27,14 +27,25 @@ aiml-mastery-5months/
 ├── README.md
 ├── month-01-foundations-math/
 │   ├── day-01-tensors/
+│   │   └── day1_tensors.py
 │   ├── day-02-matrix-multiplication/
+│   │   └── day2_matmul.py
 │   ├── day-03-calculus-derivatives/
+│   │   └── day3_derivatives.py
 │   ├── day-04-chain-rule/
+│   │   └── day4_chain_rule.py
 │   ├── day-05-loss-functions/
+│   │   └── day5_loss_functions.py
 │   ├── day-06-perceptron/
+│   │   └── day6_perceptron.py
 │   ├── day-07-week1-synthesis/
+│   │   └── day7_synthesis.py
 │   ├── day-08-xor-multilayer/
+│   │   └── day8_xor.py
 │   ├── day-09-activation-functions/
+│   │   └── day9_activations.py
+│   ├── day-10-mlp-backprop/
+│   │   └── day10_mlp.py
 │   └── ...
 ├── month-02-deep-learning-cv/
 ├── month-03-nlp-transformers/
@@ -57,7 +68,8 @@ aiml-mastery-5months/
 - [x] **Day 07:** Week 1 review, synthesis, and full training loop from scratch.
 - [x] **Day 08:** The XOR problem, linear inseparability, and Multi-Layer Perceptrons (MLPs).
 - [x] **Day 09:** Activation functions: ReLU, LeakyReLU, Sigmoid, Tanh & derivative mechanics.
-- [ ] **Day 10:** 2-Layer Neural Network forward and backward pass in pure NumPy.
+- [x] **Day 10:** 2-Layer Neural Network forward and backward pass in pure NumPy solving XOR.
+- [ ] **Day 11:** Numerical Gradient Checking (Finite Differences to verify Backprop).
 
 ---
 
